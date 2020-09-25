@@ -6,7 +6,8 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [Setup](#setup)
+- [How to run the app](#How-to-run-the-app)
+- [Status](#staus)
 - [Contact](#contact)
 
 ## General info
@@ -27,7 +28,7 @@ Night mode functionality was also implemented which prevents customers/visitors 
 - nodemon - version 5.0.0
 - sqlite3 - version 5.0.0
 
-## HOW TO RUN THE APP
+## How to run the app
 
 1. Extract both the client and server folder to any folder of your choice.
 2. CD into the client and run “npm install” without quotes to install all dependencies.
